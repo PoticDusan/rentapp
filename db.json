@@ -1,119 +1,119 @@
 {
 	"categories": [
 	    {
-			"CATEGORYID": "1",
-			"CATEGORYNAME": "CAR"
+			"categoryId": "1",
+			"categoryName": "CAR"
 		},
 		{
-			"CATEGORYID": "2",
-			"CATEGORYNAME": "MOTORCYCLE"
+			"categoryId": "2",
+			"categoryName": "MOTORCYCLE"
 		},
 		{
-			"CATEGORYID": "3",
-			"CATEGORYNAME": "E-SCOOTER"
+			"categoryId": "3",
+			"categoryName": "E-SCOOTER"
 		},
 		{
-			"CATEGORYID": "4",
-			"CATEGORYNAME": "E-BIKE"
+			"categoryId": "4",
+			"categoryName": "E-BIKE"
 		}
 	],
 	"rents": [
 	    {
-			"RENTID": "1",
-			"USERID": "1",
-			"VEHICLEID": "1",
-			"RENTFROMDATE": "2020-08-20",
-			"RENTTODATE": "2020-08-22",
-			"RENTTOTALPRICE": "59.97"
+			"rentId": "1",
+			"userId": "1",
+			"vehicleId": "1",
+			"rentFromDate": "2020-08-20",
+			"rentToDate": "2020-08-22",
+			"rentTotalPrice": "59.97"
 		},
 		{
-			"RENTID": "2",
-			"USERID": "1",
-			"VEHICLEID": "2",
-			"RENTFROMDATE": "2020-08-20",
-			"RENTTODATE": "2020-08-21",
-			"RENTTOTALPRICE": "49.98"
+			"rentId": "2",
+			"userId": "1",
+			"vehicleId": "2",
+			"rentFromDate": "2020-08-20",
+			"rentToDate": "2020-08-21",
+			"rentTotalPrice": "49.98"
 		}
 	],
 	"users": [
 	 	{
-			"USERID": "1",
-			"USERFIRSTNAME": "PETAR",
-			"USERLASTNAME": "PETROVIĆ",
-			"USEREMAIL": "PETAR.PETROVIC@GMAIL.COM",
-			"USERPASSWORD": "123123123"
+			"userId": "1",
+			"userFirstName": "PETAR",
+			"userLastName": "PETROVIĆ",
+			"userEmail": "PETAR.PETROVIC@GMAIL.COM",
+			"userPassword": "123123123"
 		}
 	],
 	"userRates": [
 	    {
-			"USERID": "1",
-			"VEHICLEID": "1",
-			"RATEVALUE": "5",
-			"RATEDESCRIPTION": null
+			"userId": "1",
+			"vehicleId": "1",
+			"rateValue": "5",
+			"rateDescription": null
 		},
 		{
-			"USERID": "1",
-			"VEHICLEID": "2",
-			"RATEVALUE": "4",
-			"RATEDESCRIPTION": null
+			"userId": "1",
+			"vehicleId": "2",
+			"rateValue": "4",
+			"rateDescription": null
 		}
 	],
 	"vehicles": [
 	    {
-			"VEHICLEID": "1",
-			"CATEGORYID": "1",
-			"VEHICLENAME": "WOKLSWAGEN POLO",
-			"VEHICLEIMAGE": "https://www.zim-rentacar.com/assets/img/automobili/rent-a-car-beograd-volkswagen-polo.jpg",
-			"VEHICLEPRICE": "19.99",
-			"VEHICLERATING": "4"
+			"vehicleId": "1",
+			"categoryId": "1",
+			"vehicleName": "WOKLSWAGEN POLO",
+			"vehicleImage": "https://www.zim-rentacar.com/assets/img/automobili/rent-a-car-beograd-volkswagen-polo.jpg",
+			"vehiclePrice": "19.99",
+			"vehicleRating": "4"
 		},
 		{
-			"VEHICLEID": "2",
-			"CATEGORYID": "1",
-			"VEHICLENAME": "OPEL ASTRA",
-			"VEHICLEIMAGE": "https://www.zim-rentacar.com/assets/img/automobili/rent-a-car-beograd-opel-astra-j-sedan.jpg",
-			"VEHICLEPRICE": "24.99",
-			"VEHICLERATING": "5"
+			"vehicleId": "2",
+			"categoryId": "1",
+			"vehicleName": "OPEL ASTRA",
+			"vehicleImage": "https://www.zim-rentacar.com/assets/img/automobili/rent-a-car-beograd-opel-astra-j-sedan.jpg",
+			"vehiclePrice": "24.99",
+			"vehicleRating": "5"
 		},
 		{
-			"VEHICLEID": "3",
-			"CATEGORYID": "3",
-			"VEHICLENAME": "TESLA X",
-			"VEHICLEIMAGE": "https://mediaim.expedia.com/localexpert/768916/034dc16c-f436-4248-89a3-dac13e8e8e4b.jpg?impolicy=resizecrop&rw=350&rh=197",
-			"VEHICLEPRICE": "7.99",
-			"VEHICLERATING": "5"
+			"vehicleId": "3",
+			"categoryId": "3",
+			"vehicleName": "TESLA X",
+			"vehicleImage": "https://mediaim.expedia.com/localexpert/768916/034dc16c-f436-4248-89a3-dac13e8e8e4b.jpg?impolicy=resizecrop&rw=350&rh=197",
+			"vehiclePrice": "7.99",
+			"vehicleRating": "5"
 		},
 		{
-			"VEHICLEID": "4",
-			"CATEGORYID": "2",
-			"VEHICLENAME": "APRILIA G50",
-			"VEHICLEIMAGE": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDGfX5KC8YmH0_rcNtz_B0r9NkbRlLLDEv-A&usqp=CAU",
-			"VEHICLEPRICE": "11.99",
-			"VEHICLERATING": "5"
+			"vehicleId": "4",
+			"categoryId": "2",
+			"vehicleName": "APRILIA G50",
+			"vehicleImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDGfX5KC8YmH0_rcNtz_B0r9NkbRlLLDEv-A&usqp=CAU",
+			"vehiclePrice": "11.99",
+			"vehicleRating": "5"
 		},
 		{
-			"VEHICLEID": "5",
-			"CATEGORYID": "2",
-			"VEHICLENAME": "HONDA GX",
-			"VEHICLEIMAGE": "https://lh3.googleusercontent.com/proxy/mnGkukUtjyX3KYRUcNKgCYzj_4wUxKZ1Y0ZLMQX1QwSiMzyGP4Tz_Bcgrr2qDVPbMEQthtFFU3C-3CwfpJqFdvdyeGY5JG4qsoU2t4SmVf7BImdixN4EQ6ll",
-			"VEHICLEPRICE": "15.99",
-			"VEHICLERATING": "5"
+			"vehicleId": "5",
+			"categoryId": "2",
+			"vehicleName": "HONDA GX",
+			"vehicleImage": "https://lh3.googleusercontent.com/proxy/mnGkukUtjyX3KYRUcNKgCYzj_4wUxKZ1Y0ZLMQX1QwSiMzyGP4Tz_Bcgrr2qDVPbMEQthtFFU3C-3CwfpJqFdvdyeGY5JG4qsoU2t4SmVf7BImdixN4EQ6ll",
+			"vehiclePrice": "15.99",
+			"vehicleRating": "5"
 		},
 		{
-			"VEHICLEID": "6",
-			"CATEGORYID": "2",
-			"VEHICLENAME": "MINI B30",
-			"VEHICLEIMAGE": "https://rentavespabelgrade.com/wp-content/uploads/2019/03/bela-1.jpg",
-			"VEHICLEPRICE": "8.99",
-			"VEHICLERATING": "4"
+			"vehicleId": "6",
+			"categoryId": "2",
+			"vehicleName": "MINI B30",
+			"vehicleImage": "https://rentavespabelgrade.com/wp-content/uploads/2019/03/bela-1.jpg",
+			"vehiclePrice": "8.99",
+			"vehicleRating": "4"
 		},
 		{
-			"VEHICLEID": "7",
-			"CATEGORYID": "4",
-			"VEHICLENAME": "PREVELO CITY",
-			"VEHICLEIMAGE": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/ae/9b/58.jpg",
-			"VEHICLEPRICE": "2.99",
-			"VEHICLERATING": "5"
+			"vehicleId": "7",
+			"categoryId": "4",
+			"vehicleName": "PREVELO CITY",
+			"vehicleImage": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/ae/9b/58.jpg",
+			"vehiclePrice": "2.99",
+			"vehicleRating": "5"
 		}
 	]
 }
