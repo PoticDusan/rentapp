@@ -1,5 +1,5 @@
 {
-	"category": [
+	"categories": [
 	    {
 			"CATEGORYID": "1",
 			"CATEGORYNAME": "CAR"
@@ -17,7 +17,7 @@
 			"CATEGORYNAME": "E-BIKE"
 		}
 	],
-	"rent": [
+	"rents": [
 	    {
 			"RENTID": "1",
 			"USERID": "1",
@@ -35,7 +35,7 @@
 			"RENTTOTALPRICE": "49.98"
 		}
 	],
-	"user": [
+	"users": [
 	 	{
 			"USERID": "1",
 			"USERFIRSTNAME": "PETAR",
@@ -44,7 +44,7 @@
 			"USERPASSWORD": "123123123"
 		}
 	],
-	"userrate": [
+	"userRates": [
 	    {
 			"USERID": "1",
 			"VEHICLEID": "1",
@@ -58,7 +58,7 @@
 			"RATEDESCRIPTION": null
 		}
 	],
-	"vehicle": [
+	"vehicles": [
 	    {
 			"VEHICLEID": "1",
 			"CATEGORYID": "1",
